@@ -18,4 +18,4 @@
 * Select Install zip from SD CARD and select Deodex Tipo 11.0.A.4.27.zip
 * RESTART your PHONE and DONE
 
-## SCREENSHOT:-
+###### Disclaimer:- All the Firmware credits to the Sony Mobiles, This deodexed Rom is the modified on the orginal work.
