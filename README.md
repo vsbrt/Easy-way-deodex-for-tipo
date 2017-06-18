@@ -13,10 +13,9 @@
 
 ## INSTALLATION PROCEDURE:-
 
-* Download the drivers zip and place it on sd card
-* Reboot phone into recovery mode
-* Flash the zip
-* Reboot!!
-* Done  !!
+* Place Deodex Tipo 11.0.A.4.27 onto SD card
+* boot into CWM 
+* Select Install zip from SD CARD and select Deodex Tipo 11.0.A.4.27.zip
+* RESTART your PHONE and DONE
 
 ## SCREENSHOT:-
