@@ -5,8 +5,10 @@
 
 ## PREQUISITES:-
 
-* Rooted xperia tipo
-* CWM/TWRP custom recovery
+* CWM
+* Rooted Phone
+* STOCK ROM (11.0.A.4.27)
+* Do a backup before your Flash this zip
 
 
 ## INSTALLATION PROCEDURE:-
