@@ -1,0 +1,199 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: /99lrwexr1488gs3E02+rj3PrFQ=
+
+Name: system/app/BackupRestoreConfirmation.apk
+SHA1-Digest: buHkoyUpd+xPI2bxFxQa/52e8kI=
+
+Name: system/framework/bouncycastle.jar
+SHA1-Digest: Rkde5QPfvRL52W4/F+bsikvhfyY=
+
+Name: system/framework/framework.jar
+SHA1-Digest: GCVbOH5OLCIRIv9dYbhanBVDFcY=
+
+Name: system/app/Protips.apk
+SHA1-Digest: dYCDuGV/PADvHUjlUnblZeNZRws=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: c/v0wU3UBGGiM5fgWtKJ2kY6I30=
+
+Name: system/app/CertInstaller.apk
+SHA1-Digest: 7nGCfkO9zJljwpjG2Umw0TtRSuA=
+
+Name: system/app/MediaProvider.apk
+SHA1-Digest: +2E1NuKN44njClWdnFuqUcVMa0g=
+
+Name: system/app/DefaultContainerService.apk
+SHA1-Digest: ZBFaVM4tKgpjyrs7RZS33SaN/2c=
+
+Name: system/app/MusicFX.apk
+SHA1-Digest: HIu7coKjY0WAFIALDgCdMHS+Dh8=
+
+Name: system/framework/com.sonyericsson.uxp.jar
+SHA1-Digest: lY6AEOb1VP/Ud5GRprmwBt7mLio=
+
+Name: system/app/Browser.apk
+SHA1-Digest: EF3iE+aYWfiI39qFyLKRmuaOFmw=
+
+Name: system/framework/qcrilhook.jar
+SHA1-Digest: Z8b/duSCG+amb88y0+jDneXWLyo=
+
+Name: system/framework/core-junit.jar
+SHA1-Digest: QcBSA9qWuwxbBvqoQ7VpHtRsjMM=
+
+Name: system/app/SettingsProvider.apk
+SHA1-Digest: RNxBTEE1aBX6rCwjCIpzmjyi86M=
+
+Name: system/framework/com.sonyericsson.uxpres.jar
+SHA1-Digest: fc7WbEOMXMzJomyMOsNv6iURzmQ=
+
+Name: system/framework/SemcGenericUxpRes.jar
+SHA1-Digest: kOqvCI5mCdBlYUXjRuZUtiVRLso=
+
+Name: system/app/DrmProvider.apk
+SHA1-Digest: 5UVxrG0npAKV4OQfVeDjJFSOs1c=
+
+Name: system/app/VpnDialogs.apk
+SHA1-Digest: 2SMJFD3EzzYB7AW9srhtXi8AQqc=
+
+Name: system/app/VisualizationWallpapers.apk
+SHA1-Digest: P1q6HniVP3EVVF0FecPPrUFnOCE=
+
+Name: system/app/HTMLViewer.apk
+SHA1-Digest: 60fM+0mhQ2JkuN5r6a7A4jgzpm8=
+
+Name: system/app/CalendarProvider.apk
+SHA1-Digest: yqyw44wKz2mTpT72q4dZc9m5lWU=
+
+Name: system/framework/bu.jar
+SHA1-Digest: LggbMc1+Fpxq4CEpyZ4tHGJK/v4=
+
+Name: system/app/Stk.apk
+SHA1-Digest: UTg9+y+JhN+Y/LntntViIS7CWCI=
+
+Name: system/app/PackageInstaller.apk
+SHA1-Digest: LJhOhBo4GlNLwXUFM9dtwhv4LCY=
+
+Name: system/framework/bmgr.jar
+SHA1-Digest: uZv5sb7d/ul4DN4K/TlmE5WWm/o=
+
+Name: system/app/SecureClockJava.apk
+SHA1-Digest: 7cJbFqbhVpYOpM7TUhHLjdfJVwU=
+
+Name: system/framework/AsahiSignature.jar
+SHA1-Digest: Hv7aY4Xf9w0O/xPv8Y+jyXiucYo=
+
+Name: system/app/CredentialManagerService.apk
+SHA1-Digest: qHaWiuIAYBZxoEkxuISR0D2XbFM=
+
+Name: system/framework/semc_bootinfoif.jar
+SHA1-Digest: tADAmDG+VmyXJTPUIVZ1y6+TR2Q=
+
+Name: system/app/DownloadProviderUi.apk
+SHA1-Digest: De3fEbE0/Cxa1RVfcE5focxyQf8=
+
+Name: system/framework/input.jar
+SHA1-Digest: 2tlWWJWqHvTnLepYfATNq1VyWOg=
+
+Name: system/app/Phone.apk
+SHA1-Digest: t1TQfxmOo1ycQXqx4OJtVlIf0aU=
+
+Name: system/framework/core.jar
+SHA1-Digest: ke9gALTU/CrE7DLT866pncaHBN0=
+
+Name: system/framework/am.jar
+SHA1-Digest: 4NIZVwf56pNCGCLNyAPsb8yZ5IY=
+
+Name: system/framework/ime.jar
+SHA1-Digest: XMkPWwJ+Jn25yHucf3ymdYUfG8o=
+
+Name: system/app/Bluetooth.apk
+SHA1-Digest: vQoWx/ZW9qwj/UZFkmlD3vbHPaI=
+
+Name: system/framework/ext.jar
+SHA1-Digest: cFs4XKh1mpuSQ0n7njv5+xtbeXA=
+
+Name: system/app/KeyChain.apk
+SHA1-Digest: hVTEMpiURGEUIwfuCTxo4lrR124=
+
+Name: system/framework/android.test.runner.jar
+SHA1-Digest: RFbZSjpcGn27349cqG4jQOz5Z5A=
+
+Name: system/framework/monkey.jar
+SHA1-Digest: KG99CIm7PDIF2pYtvmZQI73XGvo=
+
+Name: system/app/DownloadProvider.apk
+SHA1-Digest: xXYS71iWFUMp/nDE7po9sa0sMv4=
+
+Name: system/framework/apache-xml.jar
+SHA1-Digest: +M5rQVYeNet59uDYx90o3yhieW8=
+
+Name: system/framework/filterfw.jar
+SHA1-Digest: HzmI9tlT8Ik6jQn2AIfUlCd8WkI=
+
+Name: system/framework/com.android.location.provider.jar
+SHA1-Digest: 2JTwuWXSO3BKkvpUXFxDjcLL2qM=
+
+Name: system/framework/pm.jar
+SHA1-Digest: egP+qzUI8AxBWBUxCoOnNNjhvHA=
+
+Name: system/app/NoiseField.apk
+SHA1-Digest: qShmhODeWsL4GSoJIWYJGa/OI88=
+
+Name: system/app/UserDictionaryProvider.apk
+SHA1-Digest: TX4ZcM7165KdZuK5V0xNWX90gFY=
+
+Name: system/framework/FmRadio.jar
+SHA1-Digest: Ct7VywL4J4n9dBHWbhUyOdqFc7U=
+
+Name: system/app/LiveWallpapers.apk
+SHA1-Digest: 9yvNy0Zbe9pON/qorEKvJHLVN7I=
+
+Name: system/app/SharedStorageBackup.apk
+SHA1-Digest: 33u5x5V1zkB46j1BN7dYVi4JXts=
+
+Name: system/app/VoiceDialer.apk
+SHA1-Digest: VtQ0zRhdXTg5MyyUG8A8vNPu55k=
+
+Name: system/framework/services.jar
+SHA1-Digest: CDZBcuTK5RsBEk/09Dz9kIx65l4=
+
+Name: system/app/SystemUI.apk
+SHA1-Digest: 5izzAjhWAgE7ChYr/lj4tFAAgeY=
+
+Name: system/framework/android.policy.jar
+SHA1-Digest: +KZG+5YD5+XMMSTdd8GbvJFyfMM=
+
+Name: system/app/ApplicationsProvider.apk
+SHA1-Digest: ZBgcCtLahp83iyajsQTPzPsPuTk=
+
+Name: system/app/LiveWallpapersPicker.apk
+SHA1-Digest: rxlJ4kkuOpinXMFEWXE4dicGkMY=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: CQUOwbip/yz8Pk2kUbaIt35K0xw=
+
+Name: del_odex.sh
+SHA1-Digest: iP1JSf05aq6qBEqhmnh8HOAz9Uc=
+
+Name: system/framework/javax.obex.jar
+SHA1-Digest: x9MwP1EKFwq1W4Emy86NUAaivXI=
+
+Name: system/app/soundlevelalert.apk
+SHA1-Digest: uQ4Zofi9dMX8d5ZC5DcCt5JJWSM=
+
+Name: system/app/WAPPushManager.apk
+SHA1-Digest: ukB3LexHK8aGZEM81HYVAZ1tW64=
+
+Name: system/app/SoundRecorder.apk
+SHA1-Digest: b1vio6RhpC6rCd9hLX+j676tf1I=
+
+Name: system/framework/svc.jar
+SHA1-Digest: KKrzhYn7cxo8uAM7QbVGqqIVqhQ=
+
+Name: system/app/Settings.apk
+SHA1-Digest: rF4f5H+DCF10uN0KeysS0m8hZZY=
+
+Name: system/framework/com.android.future.usb.accessory.jar
+SHA1-Digest: BJVTyC3OSbYXiEHSTu8/59Rq7co=
+
